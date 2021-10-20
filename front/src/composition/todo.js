@@ -1,0 +1,7 @@
+function getCurrentItem() {
+    // ...
+}
+
+export {
+    getCurrentItem
+}
